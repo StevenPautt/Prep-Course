@@ -1,0 +1,23 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Variables
+Strings
+Funciones (argumentos, return)cle
+Declaraciones if
+Valores booleanos (true, false)
+
+Respuestas:
+ Variables: Es algo donde se puede almacenar informacion ejemplo, una edad , un nombre, un nombre de una cancion, existen varios tipos de variables.
+    string = se puede decir que es para escribir texto como un nombre, apellido
+    int = nos sirve para almacenar numeros ENTEROS como una edad, el peso y estatura de una persona, la suma de dos numeros etc.
+    Boleean = es un tipo de variables que nos permite elegir entre dos opciones verdadero y falso (true, false) nos sirve cuando queros verificar el estado de algo, si una bombilla esta encendida, si tienes el cinturon de seguridad entre otros.
+
+Strings = se entiend ecomo strings (cadenas de texto) es un tipo de vatiable en el cual solo se permite texto o caracteres especiales siempre y cuando esten dentro de la cadena y se definen de dos formas ("",'') al colocgar el texto dentro de las comillas simples o comillas dobles, se entiende que el texto es un string
+
+function funciones(){
+    string argumentos= "Los argumentos en una funcion se de definen como los parametros que se le asignan a dicha funcion, es decir los valores o cadenas de texto que se van a necesitar para poder realizar la operacion o la finalidad de la propia funcion";
+    string retunr= "La declaracion return nos permite devolver el resultado de una operacion o el valor de una variable";
+}
+
+Declaraciones if= son usadas para comparar si algo es verdadero o falso 
+
+
